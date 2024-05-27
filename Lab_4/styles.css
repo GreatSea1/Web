@@ -2,19 +2,19 @@ body {
   color: #40514E;
   margin: 0;
   text-align: center;
-  font-family: 'Merriweather', serif;
+  font-family: 'Noto Sans JP', sans-serif;
 }
 
 h1 {
   color: #66BFBF;
   font-size: 5.625rem;
   margin: 50px auto 0 auto;
-  font-family: 'Sacramento', cursive;
+  font-family: 'Noto Sans JP', sans-serif;
 }
 
 h2 {
   color: #66BFBF;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Noto Sans JP', sans-serif;
   font-size: 2.5rem;
   font-weight: normal;
   padding-bottom: 10px;
@@ -22,7 +22,7 @@ h2 {
 
 h3 {
   color: #11999E;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Noto Sans JP', sans-serif;
 }
 
 p {
@@ -38,7 +38,7 @@ hr {
 
 a{
   color: #11999E;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Noto Sans JP', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
 }
@@ -106,7 +106,7 @@ a:hover {
   margin-right: 30px;
 }
 
-.labphoto-img {
+.chilli-img {
   width: 25%;
   float: right;
   margin-left: 30px;
@@ -122,7 +122,7 @@ a:hover {
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Noto Sans JP', sans-serif;
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
@@ -137,4 +137,10 @@ a:hover {
   background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
+}
+
+.profile_img {
+  width: 200px;
+  height: 100%;
+  border-radius: 200px;
 }
