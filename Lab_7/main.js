@@ -1,6 +1,7 @@
 //Вывести на экран любое значение с помощью console.log
-var text = "Любое значение";
+let text = "Любое значение";
 console.log(text);
+
 
 //Создать две переменные с числами и вывести их на экран
 var numberOne = 1;
@@ -38,7 +39,7 @@ function division(a, b) {
 }
 
 function square(a) {
-  return squared = a ** 2;;
+  return squared = a ** 2;
 }
 
 function mod(a, b) {
